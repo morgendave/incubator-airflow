@@ -302,6 +302,7 @@ def do_setup():
             'funcsigs==1.0.0',
             'future>=0.16.0, <0.17',
             'gitpython>=2.0.2',
+            'grpcio>=1.15.0',
             'gunicorn>=19.4.0, <20.0',
             'iso8601>=0.1.12',
             'json-merge-patch==0.2',
