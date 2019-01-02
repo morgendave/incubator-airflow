@@ -19,6 +19,7 @@
 # under the License.
 
 set -e
+pip list
 
 FWDIR="$(cd "`dirname "$0"`"; pwd)"
 cd "$FWDIR"
